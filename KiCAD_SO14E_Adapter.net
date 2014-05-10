@@ -1,0 +1,50 @@
+# EESchema Netlist Version 1.1 created  Fri May  9 21:18:26 2014
+(
+ ( /536D294D SM1206 C1 100nF
+  ( 1 VCC )
+  ( 2 GND )
+ )
+ ( /536D2456 SIL-7 P1 CONN_7
+  ( 1 /IN1 )
+  ( 2 /OUT1 )
+  ( 3 /IN2 )
+  ( 4 /OUT2 )
+  ( 5 /IN3 )
+  ( 6 /OUT3 )
+  ( 7 GND )
+ )
+ ( /536D2468 SIL-7 P2 CONN_7
+  ( 1 VCC )
+  ( 2 /IN6 )
+  ( 3 /OUT6 )
+  ( 4 /IN5 )
+  ( 5 /OUT5 )
+  ( 6 /IN4 )
+  ( 7 /OUT4 )
+ )
+ ( /536D242A SO14E U1 74HC14
+  ( 1 /IN1 )
+  ( 2 /OUT1 )
+  ( 3 /IN2 )
+  ( 4 /OUT2 )
+  ( 5 /IN3 )
+  ( 6 /OUT3 )
+  ( 7 GND )
+  ( 8 /OUT4 )
+  ( 9 /IN4 )
+  ( 10 /OUT5 )
+  ( 11 /IN5 )
+  ( 12 /OUT6 )
+  ( 13 /IN6 )
+  ( 14 VCC )
+ )
+)
+*
+{ Allowed footprints by component:
+$component C1
+ SM*
+ C?
+ C1-1
+$endlist
+$endfootprintlist
+}
